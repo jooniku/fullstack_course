@@ -1,1 +1,1 @@
-* Full stack course
+# _Full stack course_
